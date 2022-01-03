@@ -1,7 +1,7 @@
 /* Global styles  */
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .flex {
@@ -28,11 +28,14 @@ section {
   padding: 10px 30px;
   background: linear-gradient(45deg, lightsalmon, tomato);
 }
-.color-orange{
-    color: orange;
+.color-orange {
+  color: orange;
 }
 /* ----- Section 1 - Hero Banner ----- */
-
+.hero-banner {
+  background-image: url(https://programminghero1.github.io/developer-portfolio/images/top-banner.png);
+    background-repeat: no-repeat;
+}
 .hero-banner img {
   width: 100%;
 }
