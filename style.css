@@ -1,0 +1,38 @@
+/* Global styles  */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+.width-50 {
+  width: 50%;
+}
+h1 {
+  font-size: 50px;
+}
+section {
+  padding: 5%;
+}
+.content {
+  padding: 0px 5%;
+}
+
+.grad_btn {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+  padding: 10px 30px;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+}
+.color-orange{
+    color: orange;
+}
+/* ----- Section 1 - Hero Banner ----- */
+
+.hero-banner img {
+  width: 100%;
+}
